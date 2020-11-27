@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/lucasbazev/lucasbazev/main/github-profile-gif.gif "Header")
 
 ## About me:
-:man: Hey there! My name's Lucas Azevedo. I'm a Brazilian Front-End Developer passionate about the JavaScript environment and its technologies. Currently studying to improve my acknowledgement and skills.
+Hey there! My name's Lucas Azevedo. I'm a Brazilian Front-End Developer passionate about the JavaScript environment and its technologies. Currently studying to improve my acknowledgement and skills.
 
 ### Check out my GitHub stats:
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasbazev)](https://github.com/anuraghazra/github-readme-stats)
